@@ -5,3 +5,5 @@ My stupid boss still prefers SVN.
 again commit origin
 Creating a new branch is quick.
 back to dev
+edit from origin branch
+
